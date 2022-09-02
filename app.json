@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "DoAnTN_Nhom3",
+    "slug": "DoAnTN_Nhom3",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "DoAnTN_Nhom3"
+}
